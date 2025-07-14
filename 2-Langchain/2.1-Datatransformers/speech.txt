@@ -1,0 +1,7 @@
+This course gives an insight to the important problems in operating system design and implementation.  
+ This course helps the students to understand the operating system responsibilities like sharing 
+resources, files, memory and process scheduling.  
+This course covers the major components of most operating systems and the trade-offs between 
+performance and functionality in the design and implementation of an operating system.  
+ In this course, emphasis will be given to three major OS subsystems: process management, memory 
+management, and file systems; and on operating system support for distributed systems. 
