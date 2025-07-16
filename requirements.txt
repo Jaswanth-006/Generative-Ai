@@ -1,0 +1,16 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain_huggingface
+sentence-transformers
+langchain_google_genai
+faiss-cpu=
