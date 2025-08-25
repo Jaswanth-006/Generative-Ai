@@ -31,3 +31,9 @@ langchain_groq
 yfinance
 duckduckgo_search
 langchain-openai
+
+
+
+autogen-agentchat
+autogen-core
+autogen-ext
