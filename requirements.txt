@@ -37,4 +37,3 @@ langchain-openai
 autogen-agentchat
 autogen-core
 autogen-ext
-autogen
